@@ -90,11 +90,3 @@ Authorization: Bearer <token>
 ```
 
 ---
-
-## Screenshot
-
-| Login | Katalog | Detail |
-|---|---|---|
-| ![Login](assets/screenshots/login.png) | ![Katalog](assets/screenshots/catalog.png) | ![Detail](assets/screenshots/detail.png) |
-
-> Tambahkan folder `assets/screenshots/` dan isi dengan screenshot aplikasimu.
