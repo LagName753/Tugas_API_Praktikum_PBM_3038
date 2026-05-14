@@ -57,8 +57,7 @@ lib/
 
 1. Clone repository ini
    ```bash
-   git clone https://github.com/USERNAME/NAMA_REPO.git
-   cd NAMA_REPO
+   git clone github.com/LagName753/Tugas_API_Praktikum_PBM_3038
    ```
 
 2. Install dependencies
